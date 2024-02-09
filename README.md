@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying on Luminar Technolab<br>👯 I’m looking to collaborate on OpenSource<br>🤝 I’m looking for help with <br>🌱 I’m currently learning ME(A)RN Stack<br>💬 Ask me about <br>⚡ Fun fact
+🔭 I’m currently studying in Luminar Technolab<br>👯 I’m looking to collaborate on OpenSource<br>🌱 I’m currently learning ME(A)RN Stack<br>💬 Ask me about MERN
 
 
 ## 🌐 Socials:
