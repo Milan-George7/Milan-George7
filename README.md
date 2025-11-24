@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying in Looking for job opportunities
+🔭 I’m Looking for job opportunities
 <br>👯 I’m looking to collaborate on OpenSource<br>🌱 I’m currently learning ME(A)RN Stack<br>💬 Ask me about MERN
 
 
